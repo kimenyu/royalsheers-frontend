@@ -42,8 +42,8 @@ royalsheers/
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/yourusername/royalsheers.git
-   cd royalsheers
+   git clone https://github.com/kimenyu/royalsheers-frontend.git
+   cd royalsheers-frontend
    ```
 
 2. **Install dependencies**
@@ -55,7 +55,7 @@ royalsheers/
 3. **Start the Expo server**
 
    ```bash
-   npm start
+   npx expo start
    ```
 
    Or use:
@@ -82,7 +82,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-- **Your Name** – [kimenyu](https://github.com/kimenyu)
+- **Kimenyu** – [kimenyu](https://github.com/kimenyu)
 
 ---
 
