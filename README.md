@@ -2,7 +2,7 @@
 
 A mobile app built with **React Native (Expo)**, designed with modular components, safe area support, custom fonts, and a navigation system. This app structure is ideal for rapid mobile development with clean separation of concerns.
 
-## 🚀 Features
+## Features
 
 - Built using **Expo** for cross-platform support
 - Custom Google Fonts using `@expo-google-fonts/neuton`
@@ -14,7 +14,7 @@ A mobile app built with **React Native (Expo)**, designed with modular component
   - `services/` for API or utility logic
   - `entities/` and `types/` for data modeling
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **React Native** (with TypeScript)
 - **Expo SDK**
@@ -23,7 +23,7 @@ A mobile app built with **React Native (Expo)**, designed with modular component
 - **TypeScript**
 - **Safe Area Context**
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 royalsheers/
@@ -37,7 +37,7 @@ royalsheers/
 ├── assets/                # Static assets like images/fonts
 ```
 
-## 📦 Setup & Installation
+## Setup & Installation
 
 1. **Clone the repo**
 
@@ -66,7 +66,7 @@ royalsheers/
    npm run web
    ```
 
-## 🧪 Scripts
+##  Scripts
 
 ```bash
 npm run start      # Start the Expo project
@@ -76,11 +76,11 @@ npm run web        # Open in browser
 npm run eject      # Eject from Expo (if needed)
 ```
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author
+##  Author
 
 - **Kimenyu** – [kimenyu](https://github.com/kimenyu)
 
